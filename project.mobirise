@@ -264,8 +264,9 @@
               "name": "info",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "Virus_removal.html",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title1": "Virus Removal",
@@ -279,8 +280,9 @@
               "name": "tools-2",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "Services.html",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title2": "Computer Service",
@@ -294,8 +296,9 @@
               "name": "responsive",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "Contact_US.html",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title3": "Online Support",
@@ -304,12 +307,14 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
               "name": "global",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "Networking.html",
               "size": 0,
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "title4": "Networking",
