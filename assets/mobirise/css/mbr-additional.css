@@ -811,6 +811,10 @@ h6,
   background-color: #c0a375;
   border-color: #c0a375;
 }
+#social-buttons4-1y .mbr-section-title,
+#social-buttons4-1y .btn-social {
+  color: #fff;
+}
 #menu-m .hide-buttons .nav-btn {
   display: none !important;
 }
