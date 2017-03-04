@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 
 
 
@@ -969,6 +970,24 @@ h6,
 #social-buttons4-27 .btn-social {
   color: #fff;
 }
+
+#header5-2b .mbr-section-title {
+  color: #000;
+  text-align: left;
+}
+#header5-2b .mbr-section-lead {
+  color: #9c9a9a;
+  text-align: left;
+  font-size: 16px;
+}
+#header5-2b .mbr-section-lead SPAN {
+  font-size: 14px;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+}
+#header5-2b .mbr-section-lead DIV {
+  font-size: 17px;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1035,6 +1054,10 @@ h6,
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
+}
+#social-buttons4-2a .mbr-section-title,
+#social-buttons4-2a .btn-social {
+  color: #fff;
 }
 #form1-20 .form-control-label {
   color: #232323;
