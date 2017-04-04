@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Price_List.html",
+    "currentPage": "Home.html",
     "name": "PCBWORLDTECH",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,7 @@
     "uniqCompNum": 84,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/pcb-world-new-logo-copy-2-128x72.png",
-    "noImageResize": "",
+    "noImageResize": "true",
     "google-analytics": "Dealing in Laptop, Desktop, Printers, Routers, Peripharals, Parts, Bio-metric gadgets, Repairing,Laptop accesories, Desktop accesories, Data recovery, Networking",
     "cookiesAlert": ""
   },
